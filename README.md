@@ -1,55 +1,50 @@
-## Your Name
+## Danielle Inkster
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+My greatest drive has always been creation and connection. Initially, I followed these interests through social services doing family unification work then as a counsellor in severe behavior schools. As my focus shifted, I completed a degree education, working as a primary school teacher in east London for five years and most recently as an online ESL teacher travelling the world for two more. 
+
+Since September 2019, I have been studying at Makers Academy, a developer bootcamp, where I have been learning fundamentals of software development through creating. My experience at Makers Academy has instilled in me the importance of best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Listening and Communication
 
-#### This Skill
+My prior years of experience as a social services worker and then as a primary school teacher helped to develop my listening and communication skills, including identifying and articulating the needs and desired results of management (or the client) as well as clearly communicating progress, outcomes and areas in need of further analysis or development.
 
-- Experience
-- Achievements
-- Evidence
+#### Outcome Driven
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Both social services and teaching require the ability stay focused on outcomes, using skills such as self-monitoring for progress and thinking critically about areas in my work that can be developed or improved for efficiency and quality. 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September 2019 to December 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Nipissing University (September 2011 to April 2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Bachelor's of Education, Primary/Junior
+- Course completed with an 89.9% average.
+- I have completed additional qualifications such as Intermediate Teaching (English) as well as aadvanced qualifications in Special Education and Guidance Counselling.
 
-#### Any other qualifications
+#### Univeristy of Saskatchewan (September 2003 to December 2007)
 
-That in some arguable way make you a better software developer or well-rounded person
+-Bachelor of Arts in Sociology
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+** VIPKID** (August 2017 - ongoing)    
+*Online ESL tutor*  
 - Any experience relevent to software development
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Borough of Newham** (September 2014 - July 2017)   
+*Classroom Teacher and Music Lead*  
 - Any experience relevent to software development
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Travelling - 30 countries and counting!
+Hiking - As a Calgarian born and raised, nothing beats the feeling of conquering a mountain.
+Surfing - Admittedly, more enthusiastic than skilled. 
