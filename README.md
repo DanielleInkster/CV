@@ -23,21 +23,21 @@ Both social services and teaching require the ability stay focused on outcomes, 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Nipissing University (September 2011 to April 2012)
+#### Nipissing University, CANADA (September 2011 to April 2012)
 
-- Bachelor's of Education, Primary/Junior
-- Course completed with an 89.9% average.
-- I have completed additional qualifications such as Intermediate Teaching (English) as well as aadvanced qualifications in Special Education and Guidance Counselling.
+- Bachelor's of Education, Primary/Junior (Ages 3-12)
+- Course completed with an 89.9% average (average over all courses).
+- I have completed an additional qualification in Intermediate (ages 12-15) Teaching (English) as well as advanced qualifications in Special Education and Guidance Counselling.
 
-#### Univeristy of Saskatchewan (September 2003 to December 2007)
+#### Univeristy of Saskatchewan, CANADA (September 2003 to December 2007)
 
 -Bachelor of Arts in Sociology
 
 ## Experience
 
-** VIPKID** (August 2017 - ongoing)    
+**VIPKID** (August 2017 - present)    
 *Online ESL tutor*  
--Teaching students ages 3-15 English via onlione classroom. Taught conversational and academic language, critical thinking and responding, conversational skills and non-verbal communication skills (intonation, body language, pitch, etc.) Assessing and reporting current attainment to parents and company. 
+-Teaching students ages 3-15 English via online classroom. Teaching conversational and academic language, critical thinking and responding skills, conversational skills and non-verbal communication skills (intonation, body language, pitch, etc.) Assessing and reporting current attainment to parents and company. 
 
 **Borough of Newham** (September 2014 - July 2017)   
 *Classroom Teacher and Music Lead*  
