@@ -31,7 +31,7 @@ Both social services and teaching require the ability stay focused on outcomes, 
 
 #### Univeristy of Saskatchewan, CANADA (September 2003 to December 2007)
 
--Bachelor of Arts in Sociology
+- Bachelor of Arts in Sociology
 
 ## Experience
 
