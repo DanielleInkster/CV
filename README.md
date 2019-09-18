@@ -54,3 +54,7 @@ Hiking - As a Calgarian born and raised, nothing beats the feeling of conquering
 Surfing - Admittedly, more enthusiastic than skilled. 
 
 Singing - Again, more enthusiastic than skilled. 
+
+## More 
+
+Makers Blog Article - https://blog.makersacademy.com/why-are-you-here-ab6fa37fafa5
