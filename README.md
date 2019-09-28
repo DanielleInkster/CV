@@ -37,7 +37,7 @@ Both social services and teaching require the ability stay focused on outcomes, 
 
 **VIPKID** (August 2017 - present)    
 *Online ESL tutor*  
-- Teaching students ages 3-15 English via online classroom. Teaching conversational and academic language, critical thinking and responding skills, conversational skills and non-verbal communication skills (intonation, body language, pitch, etc.) Assessing and reporting current attainment to parents and company. 
+- Teaching students ages 3-15 English via online classroom. Teaching conversational and academic language, critical thinking and responding skills, conversational skills and non-verbal communication skills ( such as intonation and body language) Assessing and reporting current attainment to parents and company. 
 
 **Borough of Newham** (September 2014 - July 2017)   
 *Classroom Teacher and Music Lead*  
