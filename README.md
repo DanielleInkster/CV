@@ -58,6 +58,9 @@ Singing - Again, more enthusiastic than skilled.
 ## More 
 
 Makers Blog Article - https://blog.makersacademy.com/why-are-you-here-ab6fa37fafa5
+
 Documenting Group Ruby on Rails project:
+
   -Day 1: https://medium.com/@shortferretmignight/acebook-day-1-be3f5187a016
+  
   -Day 2: https://medium.com/@shortferretmignight/acebook-day-2-21f4ad3d2a6e
