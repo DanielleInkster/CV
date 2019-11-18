@@ -41,7 +41,7 @@ Both social services and teaching require the ability stay focused on outcomes, 
 
 **Borough of Newham** (September 2014 - July 2017)   
 *Classroom Teacher and Music Lead*  
-- Teaching students ages 7-11 all subjects including, but not limited to: Math, P.E, Computing, Critical Thinking, PSHE, English, Art and Music. Responsibilities included, but not limited to: planning lessons, assessing student attainment and adjusting accordingly, marking for improvement, communicating regularlry with management, support staff, students and parents, as well as communicating finding through assessments and reports.
+- Teaching students ages 7-11 all subjects including, but not limited to: Math, P.E, Computing, Critical Thinking, PSHE, English, Art and Music. Responsibilities included, but not limited to: planning lessons, assessing student attainment and adjusting accordingly, marking for improvement, communicating regularly with management, support staff, students and parents, as well as communicating finding through assessments and reports.
 
 - As Music Lead, my role included instituting an age appropriate and accessible music curriculum throughout the school and ensuring it was taught to a good standard. This included planning with teachers and team-teaching as needed, as well as assessing video evidence from lessons for progress. This role also included planning and organizing music events such as instituting the summer fundraising concert as well as leading the school choir. 
 
