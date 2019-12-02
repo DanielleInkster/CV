@@ -29,6 +29,7 @@ Working with students with a variety of abilities and needs, particularly severe
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript, Swift
+- SQL, PostgresQL, ActiveRecord
 - RSpec, Jasmine, XCTest
 
 #### Nipissing University, CANADA (September 2011 to April 2012)
