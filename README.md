@@ -56,7 +56,7 @@ Working with students with a variety of abilities and needs, particularly severe
 
 **Woods Homes**(November 2009 - July 2011)
 *School Support Counsellor* 
--Working with students exhibiting severe behavior issues in a specialized school environment. Responsibilities including teaching life skills such as self-regulation and friendship skills, as well as liasing with classroom teachers, parents, psychologists, doctors and social workers to outline the strengths and needs of each student and create effective plans for care. This role required effective verbal and written communication skills in order to document and report on each students progress as well as to outline remaining specific concerns and how they could be best addressed. 
+- Working with students exhibiting severe behavior issues in a specialized school environment. Responsibilities including teaching life skills such as self-regulation and friendship skills, as well as liasing with classroom teachers, parents, psychologists, doctors and social workers to outline the strengths and needs of each student and create effective plans for care. This role required effective verbal and written communication skills in order to document and report on each students progress as well as to outline remaining specific concerns and how they could be best addressed. 
 
 
 ## Hobbies
