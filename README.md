@@ -3,7 +3,7 @@
 [Education](#Education) |
 [Experience ](#experience) |
 [Hobbies ](#hobbies) |
-[More](#more) |
+[More](#more) 
 
 My greatest drives have always been creativity and community. Initially, I followed these interests through social services doing family unification work then as a counsellor in severe behavior schools. As my focus shifted, I completed a degree education, working as a primary school teacher in east London for five years and most recently as an online ESL teacher travelling the world for two more. 
 
@@ -21,7 +21,7 @@ My prior years of experience as a social services worker and then as a primary s
 
 #### Team Player
 
-My previous roles necessitated the need to work as part of a team in order to best meet the interests of each child in my care. This included liasing with a variety of different people such as management, doctors, social workers and psychologists as well as other frontline staff both face to face and in writing and working collaboratively to achieve our intended outcomes. Additionally, this role has given me a lot of experience in both giving and recieving feedback, positive and negative, in order to improve our process to meet our intended outcomes. These skills translate well to working in a pair or team to efficiently create a well-designed project. 
+My previous roles necessitated the need to work as part of a team in order to best meet the interests of each child in my care. This included liasing with a variety of different people such as management, doctors, social workers and psychologists as well as other frontline staff both face to face and in writing and working collaboratively to achieve our intended outcomes. Additionally, this role has given me a lot of experience in both giving and recieving feedback, positive and negative, in order to improve our process to meet our intended outcomes. These skills translate well to coding when working in a pair or team to efficiently create a well-designed project. 
 
 #### Creative Problem Solver and Resilient
 
