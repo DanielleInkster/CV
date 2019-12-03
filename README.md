@@ -2,7 +2,7 @@
 [Skills](#Skills) |
 [Education](#Education) |
 [Experience ](#experience) |
-[Hobbies ](#hobbies)
+[Hobbies ](#hobbies) |
 [More](#more) |
 
 My greatest drives have always been creativity and community. Initially, I followed these interests through social services doing family unification work then as a counsellor in severe behavior schools. As my focus shifted, I completed a degree education, working as a primary school teacher in east London for five years and most recently as an online ESL teacher travelling the world for two more. 
