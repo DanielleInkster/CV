@@ -90,6 +90,7 @@ Blog Contributions to Ruby on Rails project:
 Blog Contributions to Swift Final Project :
 
 - Day 1: https://medium.com/team-6/day-1-beginning-of-the-end-4ab2aebd6201
+- Day 8: https://medium.com/team-6/day-8-everybody-freeze-1c4fa7e0e817
 
 ## Codewars
 ![](https://www.codewars.com/users/DanielleInkster/badges/large)
