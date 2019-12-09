@@ -83,14 +83,14 @@ Makers Blog Article:
 
 Blog Contributions to Ruby on Rails project:
 
-  -Day 1: https://medium.com/@shortferretmignight/acebook-day-1-be3f5187a016
+  - Day 1: https://medium.com/@shortferretmignight/acebook-day-1-be3f5187a016
   
-  -Day 2: https://medium.com/@shortferretmignight/acebook-day-2-21f4ad3d2a6e
+  - Day 2: https://medium.com/@shortferretmignight/acebook-day-2-21f4ad3d2a6e
   
 Blog Contributions to Swift Final Project :
 
-- Day 1: https://medium.com/team-6/day-1-beginning-of-the-end-4ab2aebd6201
-- Day 8: https://medium.com/team-6/day-8-everybody-freeze-1c4fa7e0e817
+  - Day 1: https://medium.com/team-6/day-1-beginning-of-the-end-4ab2aebd6201
+  - Day 8: https://medium.com/team-6/day-8-everybody-freeze-1c4fa7e0e817
 
 ## Codewars
 ![](https://www.codewars.com/users/DanielleInkster/badges/large)
