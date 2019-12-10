@@ -21,7 +21,7 @@ My prior years of experience as a social services worker and then as a primary s
 
 #### Team Player
 
-My previous roles necessitated the need to work as part of a team in order to best meet the interests of each child in my care. This included liasing with a variety of different people such as management, doctors, social workers and psychologists as well as other frontline staff both face to face and in writing and working collaboratively to achieve our intended outcomes. Additionally, this role has given me a lot of experience in both giving and recieving feedback, positive and negative, in order to improve our process to meet our intended outcomes. These skills translate well to coding when working in a pair or team to efficiently create a well-designed project. 
+My previous roles necessitated the need to work as part of a team in order to best meet the interests of each child in my care. This included liaising with a variety of different people such as management, doctors, social workers and psychologists as well as other frontline staff both face to face and in writing and working collaboratively to achieve our intended outcomes. Additionally, this role has given me a lot of experience in both giving and receiving feedback, positive and negative, in order to improve our process to meet our intended outcomes. These skills translate well to coding when working in a pair or team to efficiently create a well-designed project. 
 
 #### Creative Problem Solver and Resilient
 
@@ -43,7 +43,7 @@ Working with students with a variety of abilities and needs, particularly severe
 - Course completed with an 89.9% average (average over all courses).
 - I have completed an additional qualification in Intermediate (ages 12-15) Teaching (English) as well as advanced qualifications in Special Education and Guidance Counselling.
 
-#### Univeristy of Saskatchewan, CANADA (September 2003 to December 2007)
+#### University of Saskatchewan, CANADA (September 2003 to December 2007)
 
 - Bachelor of Arts in Sociology
 
@@ -62,7 +62,7 @@ Working with students with a variety of abilities and needs, particularly severe
 **Woods Homes**(November 2009 - July 2011)
 
 *School Support Counsellor* 
-- Working with students exhibiting severe behavior issues in a specialized school environment. Responsibilities including teaching life skills such as self-regulation and friendship skills, as well as liasing with classroom teachers, parents, psychologists, doctors and social workers to outline the strengths and needs of each student and create effective plans for care. This role required effective verbal and written communication skills in order to document and report on each students progress as well as to outline remaining specific concerns and how they could be best addressed. 
+- Working with students exhibiting severe behaviour issues in a specialized school environment. Responsibilities including teaching life skills such as self-regulation and friendship skills, as well as liaising with classroom teachers, parents, psychologists, doctors and social workers to outline the strengths and needs of each student and create effective plans for care. This role required effective verbal and written communication skills in order to document and report on each student’s progress as well as to outline remaining specific concerns and how they could be best addressed. 
 
 
 ## Hobbies
@@ -94,3 +94,4 @@ Blog Contributions to Swift Final Project :
 
 ## Codewars
 ![](https://www.codewars.com/users/DanielleInkster/badges/large)
+
