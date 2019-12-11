@@ -35,9 +35,10 @@ An intensive 16 week bootcamp with a focus on:
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript, Swift
+- Ruby, Rails, JavaScript
 - SQL, PostgresQL, ActiveRecord
-- RSpec, Jasmine, XCTest
+- RSpec, Jasmine
+- Self-taught Swift to create final team project, testing with XCTest
 
 #### Nipissing University, CANADA (September 2011 to April 2012)
 
