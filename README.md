@@ -31,6 +31,8 @@ Working with students with a variety of abilities and needs, particularly severe
 
 #### Makers Academy (September 2019 to December 2019)
 
+An intensive 16 week bootcamp with a focus on:
+
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript, Swift
@@ -60,7 +62,6 @@ Working with students with a variety of abilities and needs, particularly severe
 - As Music Lead, my role included instituting an age appropriate and accessible music curriculum throughout the school and ensuring it was taught to a good standard. This included planning with teachers and team-teaching as needed, as well as assessing video evidence from lessons for progress. This role also included planning and organizing music events such as instituting the summer fundraising concert as well as leading the school choir. 
 
 **Woods Homes**(November 2009 - July 2011)
-
 *School Support Counsellor* 
 - Working with students exhibiting severe behaviour issues in a specialized school environment. Responsibilities including teaching life skills such as self-regulation and friendship skills, as well as liaising with classroom teachers, parents, psychologists, doctors and social workers to outline the strengths and needs of each student and create effective plans for care. This role required effective verbal and written communication skills in order to document and report on each student’s progress as well as to outline remaining specific concerns and how they could be best addressed. 
 
