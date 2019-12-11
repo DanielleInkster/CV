@@ -1,5 +1,6 @@
 ## Danielle Inkster
 [Skills](#Skills) |
+[Projects](#Projects) |
 [Education](#Education) |
 [Experience ](#experience) |
 [Hobbies ](#hobbies) |
@@ -8,6 +9,15 @@
 My greatest drives have always been creativity and community. Initially, I followed these interests through social services doing family unification work then as a counsellor in severe behavior schools. As my focus shifted, I completed a degree education, working as a primary school teacher in east London for five years and most recently as an online ESL teacher travelling the world for two more. 
 
 Since September 2019, I have been studying at Makers Academy, a developer bootcamp, where I have been learning fundamentals of software development through creating. My experience at Makers Academy has instilled in me the importance of best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed.
+
+## Projects
+
+Title | Description | Tech Used | Time Frame | Link
+--- | --- | --- | --- | ---
+Jack The Ripper | Jack the Ripper is a iOS app that uses geo-location to take the user through the canonical five murders of Jack the Ripper. Users are give various challenges to solve in order to move on to the next location. |  Swift (XCode)  - Tested with XCTest | 2 weeks | [GitHub](https://github.com/DanielleInkster/Team-6-Game)
+Acebook: Short Ferret Midnight | Using Agile practices, our team of 6 created a social media site where users can create profiles, upload pictures, make wall posts/comments and like or dislike them. | Rails, ActiveRecord, Heroku, Travis CI, Rubocop, Codeclimate  - Tested with RSPEC | 2 weeks | [GitHub](https://github.com/DanielleInkster/short_ferret_midnight_acebook)
+Makers BnB | Our team of 4 created a short-term property rental app. Users can login, post properties with pictures and approve or deny rental requests or request and book properties. The User is sent an email confirmation on approval.| Ruby, Sinatra, ActiveRecord, BCrypt, Pony, CarrierWave  - Tested with Rspec and Capybara  | 1 week | [GitHub]( https://github.com/DanielleInkster/MakersBnB)
+
 
 ## Skills
 
