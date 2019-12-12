@@ -14,7 +14,7 @@ Since September 2019, I have been studying at Makers Academy, a developer bootca
 
 Title | Description | Tech Used | Time Frame | Link
 --- | --- | --- | --- | ---
-Jack The Ripper | Jack the Ripper is a iOS app that uses geo-location to take the user through the canonical five murders of Jack the Ripper. Users are give various challenges to solve in order to move on to the next location. |  Swift (XCode)  - Tested with XCTest | 2 weeks | [GitHub](https://github.com/DanielleInkster/Team-6-Game)
+Jack The Ripper | Jack the Ripper is an iOS app that uses geo-location to take the user through the canonical five murders of Jack the Ripper. Users are give various challenges to solve in order to move on to the next location. |  Swift (XCode)  - Tested with XCTest | 2 weeks | [GitHub](https://github.com/DanielleInkster/Team-6-Game)
 Acebook: Short Ferret Midnight | Using Agile practices, our team of 6 created a social media site where users can create profiles, upload pictures, make wall posts/comments and like or dislike them. | Rails, ActiveRecord, Heroku, Travis CI, Rubocop, Codeclimate  - Tested with RSPEC | 2 weeks | [GitHub](https://github.com/DanielleInkster/short_ferret_midnight_acebook)
 Makers BnB | Our team of 4 created a short-term property rental app. Users can login, post properties with pictures and approve or deny rental requests or request and book properties. The User is sent an email confirmation on approval.| Ruby, Sinatra, ActiveRecord, BCrypt, Pony, CarrierWave  - Tested with Rspec and Capybara  | 1 week | [GitHub]( https://github.com/DanielleInkster/MakersBnB)
 
