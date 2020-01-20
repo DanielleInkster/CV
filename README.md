@@ -6,7 +6,7 @@
 [Hobbies ](#hobbies) |
 [More](#more) 
 
-My greatest drives have always been creativity and community. Initially, I followed these interests through social services doing family unification work then as a counsellor in severe behavior schools. As my focus shifted, I completed a degree education, working as a primary school teacher in east London for five years and most recently as an online ESL teacher travelling the world for two more. 
+My greatest drives have always been creativity and community. Initially, I followed these interests through social services doing family unification work, then as a counsellor in severe behavior schools. As my focus shifted, I completed a degree education, working as a primary school teacher in east London for five years and most recently as an online ESL teacher travelling the world for two more. 
 
 Since September 2019, I have been studying at Makers Academy, a developer bootcamp, where I have been learning fundamentals of software development through creating. My experience at Makers Academy has instilled in me the importance of best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed.
 
@@ -31,11 +31,11 @@ My prior years of experience as a social services worker and then as a primary s
 
 #### Team Player
 
-My previous roles required working as part of a team in order to best meet the interests of each child in my care. This included liaising with a variety of different people such as management, doctors, social workers and psychologists as well as other frontline staff both face to face and in writing and working collaboratively to achieve our intended outcomes. Additionally, this role has given me a lot of experience in both giving and receiving feedback, positive and negative, in order to improve our process to meet our intended outcomes. These skills translate well to coding when pairing or working as part of a team to efficiently create a well-designed project. 
+My previous roles required working as part of a team in order to best meet the interests of each child in my care. This included liaising with a variety of different people such as management, doctors, social workers and psychologists as well as other frontline staff, both face to face and in writing and working collaboratively to achieve our intended outcomes. Additionally, this role has given me a lot of experience in both giving and receiving feedback, positive and negative, in order to improve our process to meet our intended outcomes. These skills translate well to coding when pairing or working as part of a team to efficiently create a well-designed project. 
 
 #### Creative Problem Solver and Resilient
 
-Working with students with a variety of abilities and needs, particularly severe behaviour students, requires the ability to quickly analyse a situation, often under pressure, and come up with a variety of solutions. I've found this to be a very useful skill in my coding journey as it has instilled within me the importance of thinking outside of the box but also the resilience to persist should the first (or the first several) solutions not prove to be ideal. 
+Working with students with a variety of abilities and needs, particularly severe behaviour students, requires the ability to quickly analyse a situation, often under pressure, and come up with a variety of solutions. I've found this to be a very useful skill in my coding journey as it has instilled within me the importance of thinking outside of the box, but also the resilience to persist should the first (or the first several) solutions not prove to be ideal. 
 
 ## Education
 
