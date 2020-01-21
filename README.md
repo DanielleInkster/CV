@@ -53,7 +53,7 @@ An intensive 16-week bootcamp with a focus on:
 
 #### Nipissing University, CANADA (September 2011 to April 2012)
 
-- Bachelor's of Education, Primary/Junior (Ages 3-12)
+- Bachelor of Education, Primary/Junior (Ages 3-12)
 - Course completed with an 89.9% average (average over all courses).
 - I have completed an additional qualification in Intermediate (ages 12-15) Teaching (English) as well as advanced qualifications in Special Education and Guidance Counselling.
 
