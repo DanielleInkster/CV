@@ -41,13 +41,15 @@ Working with students with a variety of abilities and needs, particularly severe
 
 #### Makers Academy (September 2019 to December 2019)
 
-An intensive 16 week bootcamp with a focus on:
+An intensive 16-week bootcamp with a focus on:
 
-Languages learned: Ruby, JavaScript, Swift, HTML, CSS
-Frameworks/Libraries: Rails, Sinatra, React, Bootstrap, jQuery
-Databases: PostgreSQL, ActiveRecord, 
-Testing Suites: RSpec, Capybara, Jasmine, XCTest
-Continuous Integration / Deployment: Travis CI, Heroku
+•	Languages learned: Ruby, JavaScript, Swift, HTML, CSS
+•	Frameworks/Libraries: Rails, Sinatra, React, Bootstrap, jQuery
+•	Databases: PostgreSQL, ActiveRecord, 
+•	Testing Suites: RSpec, Capybara, Jasmine, XCTest
+•	Continuous Integration / Deployment: Travis CI, Heroku
+•	Behavioural Skills: Agile process(TDD, pair programming, sprints, stand-ups/retrospectives, code reviews)
+
 
 #### Nipissing University, CANADA (September 2011 to April 2012)
 
