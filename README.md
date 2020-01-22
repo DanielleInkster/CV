@@ -6,9 +6,7 @@
 [Hobbies ](#hobbies) |
 [More](#more) 
 
-My greatest passions have always been creativity and community. Initially, I followed these interests through social services doing family unification work, then as a counsellor in severe behavior schools. As my focus shifted, I completed a degree education, working as a primary school teacher in east London for five years and most recently as an online ESL teacher travelling the world for two more. 
-
-Since September 2019, I have been studying at Makers Academy, a developer bootcamp, where I have been learning fundamentals of software development through creating. My experience at Makers Academy has instilled in me the importance of best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed.
+My greatest passions have always been creativity and community. Initially, I followed these interests through social services, then primary education and eventually to software development. I attended Makers Academy, an intensive software development course in London with curriculum is founded in Agile practices. My previous careers provided me with skills to work independently and as part of a cross-functional team. They also helped me to develop a high level of emotional intelligence for understanding users, strong written and oral communication skills to connect with peers, management and clients, as well as an outcome-driven mindset to deliver high-quality code in a timely manner. I have a good working knowledge of JavaScript and React, as well as Ruby and the Rails framework. I am a quick study and always looking to learn more.  
 
 ## Projects
 
