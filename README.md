@@ -1,12 +1,26 @@
 ## Danielle Inkster
-[Skills](#Skills) |
+[Profile](#Profile) |
+[Key Skills](#Key Skills) |
 [Projects](#Projects) |
+[Personal Skills](#Personal Skills) |
 [Education](#Education) |
 [Experience ](#experience) |
 [Hobbies ](#hobbies) |
-[More](#more) 
+[Blogs](#Blogs) 
 
-My greatest passions have always been creativity and community. Initially, I followed these interests through social services, then primary education and eventually to software development. I attended Makers Academy, an intensive software development course in London with curriculum is founded in Agile practices. My previous careers provided me with skills to work independently and as part of a cross-functional team. They also helped me to develop a high level of emotional intelligence for understanding users, strong written and oral communication skills to connect with peers, management and clients, as well as an outcome-driven mindset to deliver high-quality code in a timely manner. I have a good working knowledge of JavaScript and React, as well as Ruby and the Rails framework. I am a quick study and always looking to learn more.  
+## Profile
+
+My greatest passions have always been creativity and community. Initially, I followed these interests through social services, then primary education and eventually to software development. I attended Makers Academy, an intensive software development course in London with curriculum is founded in Agile practices. My previous careers provided me with skills to work independently and as part of a cross-functional team. They also helped me to develop a high level of emotional intelligence for understanding users, strong written and oral communication skills to connect with peers, management and clients, as well as an outcome-driven mindset to deliver high-quality code in a timely manner. I have a good working knowledge of JavaScript and React, as well as Ruby and the Rails framework. I am a quick study and always looking to learn more.
+
+## Key Skills
+
+•	JavaScript, React, JQuery, Jasmine
+•	Ruby, Rails, Sinatra, Rspec, Capybara
+•	Swift, XCTest
+•	HTML, CSS
+•	Travis CI, Heroku, Git
+•	Agile Practices
+•	TDD and Debugging processes
 
 ## Projects
 
@@ -17,7 +31,7 @@ Acebook: Short Ferret Midnight | Using Agile practices, our team of 6 created a 
 Makers BnB | Our team of 4 created a short-term property rental app. Users can login, post properties with pictures and approve or deny rental requests or request and book properties. The User is sent an email confirmation on approval.| Ruby, Sinatra, ActiveRecord, BCrypt, Pony, CarrierWave  - Tested with Rspec and Capybara  | 1 week | [GitHub]( https://github.com/DanielleInkster/MakersBnB)
 
 
-## Skills
+## Personal Skills
 
 #### Outcome Driven
 
@@ -47,7 +61,6 @@ An intensive 16-week bootcamp with a focus on:
 -	Testing Suites: RSpec, Capybara, Jasmine, XCTest
 -	Continuous Integration / Deployment: Travis CI, Heroku
 -	Behavioural Skills: Agile process(TDD, pair programming, sprints, stand-ups/retrospectives, code reviews)
-
 
 #### Nipissing University, CANADA (September 2011 to April 2012)
 
@@ -87,11 +100,15 @@ Surfing - Admittedly, more enthusiastic than skilled.
 
 Singing - Again, more enthusiastic than skilled. 
 
-## More 
+## Blogs 
 
 Makers Blog Article:
 
   - https://blog.makersacademy.com/why-are-you-here-ab6fa37fafa5
+
+Smart Pension Work Experience Blog Article:
+
+  - https://medium.com/smart-pension-technology/smart-pension-work-experience-64cd5a3313c5
 
 Blog Contributions to Ruby on Rails project:
 
