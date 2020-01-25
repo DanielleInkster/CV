@@ -1,8 +1,8 @@
 ## Danielle Inkster
 [Profile](#Profile) |
-[KeySkills](#KeySkills) |
+[Key Skills](#Key_Skills) |
 [Projects](#Projects) |
-[Personal Skills](#PersonalSkills) |
+[Personal Skills](#Personal_Skills) |
 [Education](#Education) |
 [Experience ](#experience) |
 [Hobbies ](#hobbies) |
