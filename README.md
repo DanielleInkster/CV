@@ -14,13 +14,13 @@ My greatest passions have always been creativity and community. Initially, I fol
 
 ## Key_Skills
 
-•	JavaScript, React, JQuery, Jasmine
-•	Ruby, Rails, Sinatra, Rspec, Capybara
-•	Swift, XCTest
-•	HTML, CSS
-•	Travis CI, Heroku, Git
-•	Agile Practices
-•	TDD and Debugging processes
+-JavaScript, React, JQuery, Jasmine
+-Ruby, Rails, Sinatra, Rspec, Capybara
+-Swift, XCTest
+-HTML, CSS
+-	Travis CI, Heroku, Git
+-	Agile Practices
+-	TDD and Debugging processes
 
 ## Projects
 
