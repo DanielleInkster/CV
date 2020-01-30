@@ -4,7 +4,8 @@
 [Projects](#Projects) |
 [Personal Skills](#Personal_Skills) |
 [Education](#Education) |
-[Experience ](#experience) |
+[Additional_Courses](#Additional_Courses) |
+[Experience](#experience) |
 [Hobbies ](#hobbies) |
 [Blogs](#Blogs) 
 
@@ -72,6 +73,16 @@ An intensive 16-week bootcamp with a focus on:
 #### University of Saskatchewan, CANADA (September 2003 to December 2007)
 
 - Bachelor of Arts in Sociology
+
+## Additional_Courses
+
+### Udemy
+- Modern React w/ Redux (In progress)
+- Java Certification Course (In progress)
+
+### Codecademy
+- ReactJS I (complete)
+- ReactJS II (complete)
 
 ## Experience
 
