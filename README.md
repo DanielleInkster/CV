@@ -1,12 +1,12 @@
 ## Danielle Inkster
 [Profile](#Profile) |
-[Key_Skills](#Key_Skills) |
+[Key Skills](#KeySkills) |
 [Projects](#Projects) |
-[Personal Skills](#Personal_Skills) |
+[Personal Skills](#PersonalSkills) |
 [Education](#Education) |
-[Additional_Courses](#Additional_Courses) |
+[Additional Courses](#AdditionalCourses) |
 [Experience](#experience) |
-[Hobbies ](#hobbies) |
+[Hobbies](#hobbies) |
 [Blogs](#Blogs) 
 
 ## Profile
