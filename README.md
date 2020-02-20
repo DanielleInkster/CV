@@ -1,4 +1,12 @@
 ## Danielle Inkster
+<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/Ruby-454%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/JavaScript-424%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/Swift-67%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/PHP-30%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/HTML-378%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/CSS-366%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/SQL-91%20commits-orange.svg" alt=""></a>
+
 [Profile](#Profile) |
 [Key Skills](#Key_Skills) |
 [Projects](#Projects) |
