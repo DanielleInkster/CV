@@ -86,11 +86,13 @@ An intensive 16-week bootcamp with a focus on:
 
 ### Udemy
 - Modern React w/ Redux (In progress)
-- Java Certification Course (In progress)
+- AWS Certified Developer (In progress)
+- OracleSQL Certified Developer (In progress)
 
 ### Codecademy
 - ReactJS I (complete)
 - ReactJS II (complete)
+- PHP (complete)
 
 ## Experience
 
