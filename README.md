@@ -1,9 +1,9 @@
 ## Danielle Inkster
 <a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/Ruby-454%20commits-red.svg" alt=""></a>
-<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/JavaScript-424%20commits-yellow.svg" alt=""></a>
+<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/JavaScript-432%20commits-yellow.svg" alt=""></a>
 <a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/Swift-67%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/PHP-30%20commits-navy.svg" alt=""></a>
-<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/HTML-378%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/HTML-394%20commits-green.svg" alt=""></a>
 <a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/CSS-366%20commits-purple.svg" alt=""></a>
 <a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/SQL-91%20commits-brown.svg" alt=""></a>
 
