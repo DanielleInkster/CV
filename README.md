@@ -37,7 +37,7 @@ Title | Description | Tech Used | Time Frame | Link
 --- | --- | --- | --- | ---
 Jack The Ripper | Jack the Ripper is an iOS app that uses geo-location to take the user through the canonical five murders of Jack the Ripper. Users are give various challenges to solve in order to move on to the next location. |  Swift (XCode)  - Tested with XCTest | 2 weeks | [GitHub](https://github.com/DanielleInkster/Team-6-Game)
 Acebook: Short Ferret Midnight | Using Agile practices, our team of 6 created a social media site where users can create profiles, upload pictures, make wall posts/comments and like or dislike them. | Rails, ActiveRecord, Heroku, Travis CI, Rubocop, Codeclimate  - Tested with RSPEC | 2 weeks | [GitHub](https://github.com/DanielleInkster/short_ferret_midnight_acebook)
-Makers BnB | Our team of 4 created a short-term property rental app. Users can login, post properties with pictures and approve or deny rental requests or request and book properties. The User is sent an email confirmation on approval.| Ruby, Sinatra, ActiveRecord, BCrypt, Pony, CarrierWave  - Tested with Rspec and Capybara  | 1 week | [GitHub]( https://github.com/DanielleInkster/MakersBnB)
+News App | This is a single page app created in JavaScript and HTML. It fetches the top stories from BBC News using the News API. A user can browse titles, read part of the content and use links to reach the full article hosted at the BBC News site. | 3 days | [GitHub]( https://github.com/DanielleInkster/js-api)
 Till Tech Test | Order can be entered, total is calculated (including tax and discounts), payment can be entered and a receipt is generated |  JavaScript/JQuery   - Tested with Jasmine | No Time Constraint | [GitHub](https://github.com/DanielleInkster/tech_test_3)
 
 
