@@ -125,7 +125,7 @@ Singing - Again, more enthusiastic than skilled.
 ## Blogs 
 
 Experience and project blogs:
-https://medium.com/@danielle.inkster
+- https://medium.com/@danielle.inkster
 
 Smart Pension Work Experience Blog Article:
 
