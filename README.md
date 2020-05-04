@@ -12,7 +12,6 @@
 [Projects](#Projects) |
 [Personal Skills](#Personal_Skills) |
 [Education](#Education) |
-[Additional Courses](#Additional_Courses) |
 [Experience](#experience) |
 [Hobbies](#hobbies) |
 [Blogs](#Blogs) 
@@ -38,8 +37,6 @@ Title | Description | Tech Used | Time Frame | Link
 Jack The Ripper | Jack the Ripper is an iOS app that uses geo-location to take the user through the canonical five murders of Jack the Ripper. Users are give various challenges to solve in order to move on to the next location. |  Swift (XCode)  - Tested with XCTest | 2 weeks | [GitHub](https://github.com/DanielleInkster/Team-6-Game)
 Acebook: Short Ferret Midnight | Using Agile practices, our team of 6 created a social media site where users can create profiles, upload pictures, make wall posts/comments and like or dislike them. | Rails, ActiveRecord, Heroku, Travis CI, Rubocop, Codeclimate  - Tested with RSPEC | 2 weeks | [GitHub](https://github.com/DanielleInkster/short_ferret_midnight_acebook)
 News App | A single page app created in JavaScript, HTML and CSS. It fetches the top stories from BBC News using the News API. A user can browse titles, read part of the content and use links to reach the full article hosted on the BBC News site. | JavaScript, HTML, News API | 3 days |[GitHub]( https://github.com/DanielleInkster/js-api)
-Till Tech Test | Order can be entered, total is calculated (including tax and discounts), payment can be entered and a receipt is generated |  JavaScript/JQuery   - Tested with Jasmine | No Time Constraint | [GitHub](https://github.com/DanielleInkster/tech_test_3)
-
 
 ## Personal_Skills
 
@@ -50,10 +47,6 @@ Both social services and teaching require the ability stay focused on outcomes, 
 #### Listening and Communication
 
 My prior years of experience as a social services worker and then as a primary school teacher helped to develop my listening and communication skills, including identifying and articulating the needs and desired results of management (or the client) as well as clearly communicating progress, outcomes and areas in need of further analysis or development. In coding, these skills lend themselves well to working in pairs or as part of team to create a unified vision for a project and troubleshoot problems quickly and effectively. 
-
-#### Team Player
-
-My previous roles required working as part of a team in order to best meet the interests of each child in my care. This included liaising with a variety of different people such as management, doctors, social workers and psychologists as well as other frontline staff, both face to face and in writing and working collaboratively to achieve our intended outcomes. Additionally, this role has given me a lot of experience in both giving and receiving feedback, positive and negative, in order to improve our process to meet our intended outcomes. These skills translate well to coding when pairing or working as part of a team to efficiently create a well-designed project. 
 
 #### Creative Problem Solver and Resilient
 
@@ -81,18 +74,6 @@ An intensive 16-week bootcamp with a focus on:
 #### University of Saskatchewan, CANADA (September 2003 to December 2007)
 
 - Bachelor of Arts in Sociology
-
-## Additional_Courses
-
-### Udemy
-- Modern React w/ Redux (In progress)
-- AWS Certified Developer (In progress)
-- OracleSQL Certified Developer (In progress)
-
-### Codecademy
-- ReactJS I (complete)
-- ReactJS II (complete)
-- PHP (complete)
 
 ## Experience
 
