@@ -11,7 +11,7 @@
 
 ## Profile
 
-Experienced coding bootcamp graduate with extensive background in various coding languages, developing mobile applications and building websites from the ground up. Specializes in JavaScript, including React, React-Native, Redux and Router. Professional strengths include creative problem-solving, effective written and verbal communication, and time management. Personal strengths include empathy to work effectively in teams, resiliency, highly adaptability and a quick study. 
+Experienced coding bootcamp graduate skilled in various coding languages to develop mobile applications and build websites from the ground up. Specializes in JavaScript, including React, React-Native, Redux and Router. Professional strengths include creative problem-solving, effective written and verbal communication, and time management. Personal strengths include empathy to work effectively in teams, resiliency, highly adaptability and a quick study. 
 
 ## Key_Skills
 
