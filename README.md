@@ -1,11 +1,4 @@
 ## Danielle Inkster
-<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/Ruby-454%20commits-red.svg" alt=""></a>
-<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/JavaScript-432%20commits-yellow.svg" alt=""></a>
-<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/Swift-67%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/PHP-39%20commits-navy.svg" alt=""></a>
-<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/HTML-394%20commits-green.svg" alt=""></a>
-<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/CSS-366%20commits-purple.svg" alt=""></a>
-<a href="https://sourcerer.io/danielleinkster"><img src="https://img.shields.io/badge/SQL-91%20commits-brown.svg" alt=""></a>
 
 [Profile](#Profile) |
 [Key Skills](#Key_Skills) |
@@ -18,11 +11,11 @@
 
 ## Profile
 
-My greatest passions have always been creativity and community. Initially, I followed these interests through social services, then primary education and eventually to software development. I attended Makers Academy, an intensive software development course in London with curriculum is founded in Agile practices. My previous careers provided me with skills to work independently and as part of a cross-functional team. They also helped me to develop a high level of emotional intelligence for understanding users, strong written and oral communication skills to connect with peers, management and clients, as well as an outcome-driven mindset to deliver high-quality code in a timely manner. I have a good working knowledge of JavaScript and React, as well as Ruby and the Rails framework. I am a quick study and always looking to learn more.
+Experienced coding bootcamp graduate with extensive background in various coding languages, developing mobile applications and building websites from the ground up. Specializes in JavaScript, including React, React-Native, Redux and Router. Professional strengths include creative problem-solving, effective written and verbal communication, and time management. Personal strengths include empathy to work effectively in teams, resiliency, highly adaptability and a quick study. 
 
 ## Key_Skills
 
-- JavaScript, React, JQuery, Jasmine
+- JavaScript, React, React Native, JQuery, Jasmine, Jest, Cypress
 - Ruby, Rails, Sinatra, Rspec, Capybara
 - Swift, XCTest
 - HTML, CSS
@@ -36,7 +29,7 @@ Title | Description | Tech Used | Time Frame | Link
 --- | --- | --- | --- | ---
 Jack The Ripper | Jack the Ripper is an iOS app that uses geo-location to take the user through the canonical five murders of Jack the Ripper. Users are give various challenges to solve in order to move on to the next location. |  Swift (XCode)  - Tested with XCTest | 2 weeks | [GitHub](https://github.com/DanielleInkster/Team-6-Game)
 Acebook: Short Ferret Midnight | Using Agile practices, our team of 6 created a social media site where users can create profiles, upload pictures, make wall posts/comments and like or dislike them. | Rails, ActiveRecord, Heroku, Travis CI, Rubocop, Codeclimate  - Tested with RSPEC | 2 weeks | [GitHub](https://github.com/DanielleInkster/short_ferret_midnight_acebook)
-News App | A single page app created in JavaScript, HTML and CSS. It fetches the top stories from BBC News using the News API. A user can browse titles, read part of the content and use links to reach the full article hosted on the BBC News site. | JavaScript, HTML, News API | 3 days |[GitHub]( https://github.com/DanielleInkster/js-api)
+FindForeignFeatures.com | An application to recommend tv programmes and films in languages other than English based on English features that the user enjoys. | React, React-Router, Redux and Express, using TMDB and OMDB APIs | No time constraint |[GitHub]( https://github.com/DanielleInkster/FindForeignFeatures)
 
 ## Personal_Skills
 
