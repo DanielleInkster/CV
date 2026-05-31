@@ -36,11 +36,11 @@ A full stack engineer specialising in building secure APIs, full-stack product f
 Calgary, Canada  |  Oct 2024 – Present  
 *Part-time |  Maternity Leave Mar 2025 - Mar 2026*
 
-&nbsp;####Costplan Management Ltd.  |  Apr 2026 – Present  ####
+&nbsp;#### Costplan Management Ltd.  |  Apr 2026 – Present  ####
 &ensp;-	Technologies used: Python, LaTeX, TypeScript, Claude Code.  
 &ensp;-	Worked directly with the client to understand legacy pain points, scoped the replacement solution, and am delivering a stable, user-friendly reporting pipeline.
   
-&nbsp;####Eventist  |  Oct 2024 – Mar 2025  ####
+&nbsp;#### Eventist  |  Oct 2024 – Mar 2025  ####
 &ensp;-	Technologies used: TypeScript, PostgreSQL, Docker, Codex.  
 &ensp;-	Embedded in a small team building an event management platform from scratch, contributing full-stack features across the onboarding flow, ticketing, scheduling, and real-time analytics. Worked across the product surface and contributed to shaping priorities as well as building them.
 
@@ -100,9 +100,9 @@ An intensive 16-week boot camp with a focus on:
 - Bachelor of Arts in Sociology
 
 ## Open Source
-**Internet Archive – Open Library**
-Open Library is an open, editable library catalogue building towards a web page for every book ever published.
-•	Contributing bug fixes and feature work using Python, Vue.js, and JavaScript.
+**Internet Archive – Open Library**  
+Open Library is an open, editable library catalogue building towards a web page for every book ever published.  
+- Contributing bug fixes and feature work using Python, Vue.js, and JavaScript.
 
 ## Other
 - Shortlisted for Women In IT Awards UK Advocate Of The Year Award 2024.  
