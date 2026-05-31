@@ -36,7 +36,7 @@ A full stack engineer specialising in building secure APIs, full-stack product f
 Calgary, Canada  |  Oct 2024 – Present  
 *Part-time |  Maternity Leave Mar 2025 - Mar 2026*
 
-#### &nbsp;Costplan Management Ltd.####  
+#### &nbsp;Costplan Management Ltd. ####  
 *Apr 2026 – Present*  
 &ensp;-	Technologies used: Python, LaTeX, TypeScript, Claude Code.  
 &ensp;-	Worked directly with the client to understand legacy pain points, scoped the replacement solution, and am delivering a stable, user-friendly reporting pipeline.
