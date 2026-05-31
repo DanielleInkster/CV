@@ -31,20 +31,20 @@ A full stack engineer specialising in building secure APIs, full-stack product f
 
 ## Experience
 
-**Freelance Software Engineer**
+**Freelance Software Engineer**  
 *Oct 2024 – Present  |  Part-time |  Maternity Leave Mar 2025 - Mar 2026*
 
-Costplan Management Ltd.  |  Apr 2026 – Present
+Costplan Management Ltd.  |  Apr 2026 – Present  
 -	Technologies used: Python, LaTeX, TypeScript, Claude Code.
 -	Worked directly with the client to understand legacy pain points, scoped the replacement solution, and am delivering a stable, user-friendly reporting pipeline — owning the work from discovery to deployment.
   
-Eventist  |  Oct 2024 – Mar 2025
+Eventist  |  Oct 2024 – Mar 2025  
 -	Technologies used: TypeScript, PostgreSQL, Docker, Codex.
 -	Embedded in a small team building an event management platform from scratch, contributing full-stack features across the onboarding flow, ticketing, scheduling, and real-time analytics. Worked across the product surface and contributed to shaping priorities as well as building them.
 
-**Sedna**
-London, UK  |  Jan 2021 – Sep 2024
-*Intermediate Full Stack Engineer  |  Jan 2023 – Sep 2024*
+**Sedna**  
+London, UK  |  Jan 2021 – Sep 2024  
+*Intermediate Full Stack Engineer  |  Jan 2023 – Sep 2024*  
 -	Technologies used: Kotlin, Java, Node, React, TypeScript, MySQL, JUnit, Jest, Playwright, Docker, AWS, OpenAPI
 -	Developed and enhanced Sedna's internal and public APIs as part of a cross-functional Agile team and independently. Regularly resolved high-priority bugs across the platform, participated in PagerDuty on-call rotation, and monitored production services to ensure reliability and swift incident response.
 -	As part of a team, built the first in-platform integrations for Voyage and Cargo management systems, enabling real-time data access for customers. Designed and implemented an API Key management system with key generation, permission management, and revocation capabilities, supporting enterprise-level security requirements.
