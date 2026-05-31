@@ -44,7 +44,6 @@ Eventist  |  Oct 2024 – Mar 2025
 
 **Sedna**
 London, UK  |  Jan 2021 – Sep 2024
-
 *Intermediate Full Stack Engineer  |  Jan 2023 – Sep 2024*
 -	Technologies used: Kotlin, Java, Node, React, TypeScript, MySQL, JUnit, Jest, Playwright, Docker, AWS, OpenAPI
 -	Developed and enhanced Sedna's internal and public APIs as part of a cross-functional Agile team and independently. Regularly resolved high-priority bugs across the platform, participated in PagerDuty on-call rotation, and monitored production services to ensure reliability and swift incident response.
