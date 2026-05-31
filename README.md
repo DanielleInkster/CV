@@ -5,7 +5,8 @@
 [Key Achievements](#Key_Achievements) |
 [Experience](#experience) |
 [Education](#Education) |
-[Personal Skills](#Personal_Skills) |
+[Open Source](#Open_Source) |
+[Other](#Other) |
 [Hobbies](#hobbies) |
 [Blogs](#Blogs) 
 
@@ -35,11 +36,11 @@ A full stack engineer specialising in building secure APIs, full-stack product f
 Calgary, Canada  |  Oct 2024 – Present  
 *Part-time |  Maternity Leave Mar 2025 - Mar 2026*
 
-&nbsp;Costplan Management Ltd.  |  Apr 2026 – Present  
+&nbsp;####Costplan Management Ltd.  |  Apr 2026 – Present  ####
 &ensp;-	Technologies used: Python, LaTeX, TypeScript, Claude Code.  
 &ensp;-	Worked directly with the client to understand legacy pain points, scoped the replacement solution, and am delivering a stable, user-friendly reporting pipeline.
   
-&nbsp;Eventist  |  Oct 2024 – Mar 2025  
+&nbsp;####Eventist  |  Oct 2024 – Mar 2025  ####
 &ensp;-	Technologies used: TypeScript, PostgreSQL, Docker, Codex.  
 &ensp;-	Embedded in a small team building an event management platform from scratch, contributing full-stack features across the onboarding flow, ticketing, scheduling, and real-time analytics. Worked across the product surface and contributed to shaping priorities as well as building them.
 
@@ -98,19 +99,17 @@ An intensive 16-week boot camp with a focus on:
 
 - Bachelor of Arts in Sociology
 
-## Personal_Skills
+## Open Source
+**Internet Archive – Open Library**
+Open Library is an open, editable library catalogue building towards a web page for every book ever published.
+•	Contributing bug fixes and feature work using Python, Vue.js, and JavaScript.
 
-#### Outcome Driven
-
-Both social services and teaching require the ability to stay focused on outcomes, using skills such as self-monitoring for progress and thinking critically about areas in my work that can be developed or improved for efficiency and quality. I've found this skill invaluable to my coding journey as it helps me to identify the intended outcomes of my projects and use my TDD skills and knowledge of OOP and SRP to create efficient and effective code.
-
-#### Listening and Communication
-
-My prior years of experience as a social services worker and then as a primary school teacher helped to develop my listening and communication skills, including identifying and articulating the needs and desired results of management (or the client) as well as communicating progress, outcomes, and areas in need of further analysis or development. In coding, these skills lend themselves well to working in pairs or as part of a team to create a unified vision for a project and troubleshoot problems quickly and effectively. 
-
-#### Creative Problem Solver and Resilient
-
-Working with students with a variety of abilities and needs, particularly severe behavior students, requires the ability to quickly analyze a situation, often under pressure, and come up with a variety of solutions. I've found this to be a very useful skill in my coding journey as it has instilled within me the importance of thinking outside of the box, but also the resilience to persist should the first (or the first several) solutions not prove to be ideal. 
+## Other
+- Shortlisted for Women In IT Awards UK Advocate Of The Year Award 2024.  
+- Shortlisted for Women In IT Awards UK Newcomer Of The Year Award 2023.  
+- Delegate for UN Women UK 68th Commission on the Status of Women in 2024.  
+- Volunteer and organiser with charities that improve diversity in tech, including codebar, Next Tech Girls, Tech She Can, and Rails Girls.  
+- Public speaker on topics including networking, neurodiversity, and improving gender diversity in tech.  
 
 ## Hobbies
 
