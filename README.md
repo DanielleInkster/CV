@@ -36,12 +36,12 @@ Calgary, Canada  |  Oct 2024 – Present
 *Part-time |  Maternity Leave Mar 2025 - Mar 2026*
 
 &nbsp;Costplan Management Ltd.  |  Apr 2026 – Present  
-&ebsp;-	Technologies used: Python, LaTeX, TypeScript, Claude Code.
-&ebsp;-	Worked directly with the client to understand legacy pain points, scoped the replacement solution, and am delivering a stable, user-friendly reporting pipeline — owning the work from discovery to deployment.
+&ensp;-	Technologies used: Python, LaTeX, TypeScript, Claude Code.
+&ensp;-	Worked directly with the client to understand legacy pain points, scoped the replacement solution, and am delivering a stable, user-friendly reporting pipeline — owning the work from discovery to deployment.
   
 &nbsp;Eventist  |  Oct 2024 – Mar 2025  
-&ebsp;-	Technologies used: TypeScript, PostgreSQL, Docker, Codex.
-&ebsp;-	Embedded in a small team building an event management platform from scratch, contributing full-stack features across the onboarding flow, ticketing, scheduling, and real-time analytics. Worked across the product surface and contributed to shaping priorities as well as building them.
+&ensp;-	Technologies used: TypeScript, PostgreSQL, Docker, Codex.
+&ensp;-	Embedded in a small team building an event management platform from scratch, contributing full-stack features across the onboarding flow, ticketing, scheduling, and real-time analytics. Worked across the product surface and contributed to shaping priorities as well as building them.
 
 **Sedna**  
 London, UK  |  Jan 2021 – Sep 2024  
