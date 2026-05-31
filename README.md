@@ -37,7 +37,7 @@ Calgary, Canada  |  Oct 2024 – Present
 
 &nbsp;Costplan Management Ltd.  |  Apr 2026 – Present  
 &ensp;-	Technologies used: Python, LaTeX, TypeScript, Claude Code.  
-&ensp;-	Worked directly with the client to understand legacy pain points, scoped the replacement solution, and am delivering a stable, user-friendly reporting pipeline — owning the work from discovery to deployment.
+&ensp;-	Worked directly with the client to understand legacy pain points, scoped the replacement solution, and am delivering a stable, user-friendly reporting pipeline.
   
 &nbsp;Eventist  |  Oct 2024 – Mar 2025  
 &ensp;-	Technologies used: TypeScript, PostgreSQL, Docker, Codex.  
