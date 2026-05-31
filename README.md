@@ -32,7 +32,8 @@ A full stack engineer specialising in building secure APIs, full-stack product f
 ## Experience
 
 **Freelance Software Engineer**  
-*Oct 2024 – Present  |  Part-time |  Maternity Leave Mar 2025 - Mar 2026*
+Calgary, Canada  |  Oct 2024 – Present  
+*Part-time |  Maternity Leave Mar 2025 - Mar 2026*
 
 Costplan Management Ltd.  |  Apr 2026 – Present  
 -	Technologies used: Python, LaTeX, TypeScript, Claude Code.
@@ -71,7 +72,6 @@ London, UK  |  Jan 2021 – Sep 2024
 -	Improved teacher performance through targeted development plans, team planning, and actionable feedback, increasing self-reported teacher confidence from 26% to 70%.
 
 **Woods Homes** (November 2009 - July 2011)
-
 *School Support Counsellor*
 -	Supported clients with diverse needs including severe behaviour and sensory issues, teaching essential life skills and collaborating with educators, parents, and specialists on care and progress plans.
 
